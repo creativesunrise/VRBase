@@ -76,3 +76,5 @@ DerivedDataCache/*
 VRBase Oculus.lnk
 
 VRBase Steam VR.lnk
+
+*.lnk
